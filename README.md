@@ -9,7 +9,10 @@
 
 
 <h1 align="center">I'm Nelson Mondoa</h1>
+
+<h1 align="center">![trophy](https://github-profile-trophy.vercel.app/?username=njimonda)<h1 align="center">
 <h3 align="center">A passionate Data Analyst</h3>
+
 
 <p align="left"> <a href="https://twitter.com/njimonda" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
 
