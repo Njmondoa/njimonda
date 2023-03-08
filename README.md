@@ -69,7 +69,6 @@
 
 <p align="center">
 <a href="https://twitter.com/njimonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nelson-mondoa-99777b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nelson-mondoa-99777b236" height="30" width="40" /></a>
 <a href="https://medium.com/@njimonda.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njimonda.co" height="30" width="40" /></a>
 </p>
 
