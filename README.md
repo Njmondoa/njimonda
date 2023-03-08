@@ -8,9 +8,8 @@
 
 
 
-<h1 align="center">I'm Nelson Mondoa</h1>
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=njimonda)
+<h1 align="center">I'm Nelson Mondoa</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 
