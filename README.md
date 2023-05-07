@@ -10,7 +10,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/mondoa" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/njmondoa" target="blank"><img src="https://img.shields.io/twitter/follow/njimonda?logo=twitter&style=for-the-badge" alt="njimonda" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@mondoa](https://medium.com/@mondoa)
 
@@ -20,7 +20,7 @@
 
 ##  ⚡ Online Profiles
 <p align="left">
-<a href="https://twitter.com/mondoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
+<a href="https://twitter.com/njmondoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="njimonda" height="30" width="40" /></a>
 
 <a href="https://medium.com/@mondoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@njimonda.co" height="30" width="40" /></a>
 </p>
