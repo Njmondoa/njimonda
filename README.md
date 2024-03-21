@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=2AF700&background=00FFE400&center=true&width=435&lines=Hi+There+👋;Welcome+To+My+Spot)](https://git.io/typing-svg)
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-<img src="https://camo.githubusercontent.com/8ec242120fc98d5824fa648c01be24f51a53faf755099066804c508e0f9a10b9/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d6563663035653437706f313275766878376f686b787a70717473613079343077687a7934617764746266637a65656d30267269643d67697068792e6769662663743d67"  width="1000" height="400" />
+<img src="https://raw.githubusercontent.com/AnalystHub-Hub/AnalystHub-Hub/main/bg.gif"  width="1000" height="400" />
 
 <h1 align="center">I'm Nelson</h1>
 <h3 align="center">A passionate Data Analyst</h3>
